@@ -1,0 +1,10 @@
+/* Component-specific styles, find text block styles in theme */
+.intro {
+    grid-template-columns: 120px 1fr;
+    background-color: var(--darkblue);
+    padding: 20px 44px 40px 52px;
+}
+
+.intro-img {
+    width: 120px;
+}

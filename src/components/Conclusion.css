@@ -1,0 +1,11 @@
+/* Component-specific styles, find text block styles in theme */
+.conclusion {
+    grid-template-columns: 111px 1fr;
+    background-color: var(--green);
+    padding: 14px 36px;
+    align-items: center;
+}
+
+.conclusion-img {
+    width: 111px;
+}
